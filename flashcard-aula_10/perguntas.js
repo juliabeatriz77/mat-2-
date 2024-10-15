@@ -1,23 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Conhecimentos gerais',
+    'Quem inventou a lâmpada?',
+    'Thomas Edison'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Conhecimentos gerais',
+    'Quantos ossos temos no corpo?',
+    '206'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Conhecimentos gerais',
+    'Qual o maior planeta do sistema solar?',
+    'Júpiter'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Conhecimentos gerais',
+    'Qual o planeta mais próximo do sol?',
+    'Mercúrio'
+)
+
+criaCartao(
+    'Conhecimentos gerais',
+    'Quantos continentes existem?',
+    '6'
+)
+
+criaCartao(
+    'Conhecimentos gerais',
+    'quas as duas línguas mais faladas no mundo?',
+    'inglês e mandarim chinês'
 )
